@@ -1,2 +1,1 @@
-# Curso-Henry
-Este es una prueba del curso Henry
+Este proyecto es una prueba de como crear un repositorio de github y clonarlo
